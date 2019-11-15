@@ -10,11 +10,12 @@
 # ✨ ScanAllNet
 
 >#### Scan the devices of your current connected network and write them in a text file.
-<br>![](https://quentium.fr/programs/Github/ScanAllNet.gif)
+<br>
+<p align="center"><img src="https://quentium.fr/programs/Github/ScanAllNet.gif"></p>
 
 ## 📥 Installation
 
-- Download the source code [here](https://github.com/QuentiumYT/ScanAllNet/archive/master.zip) and run `ScanAllNet.pyw` on your computer (you will need socket, platform, psutil, wmi and ctypes modules)
+- Download the source code [here](https://github.com/QuentiumYT/ScanAllNet/archive/master.zip) and run `ScanAllNet.pyw` on your computer (you will need PIL (Pillow) module)
 - Download the 64bits compiled executable [here](https://quentium.fr/download.php?file=ScanAllNet.exe)!
 - Download the 32bits compiled executable [here](https://quentium.fr/download.php?file=ScanAllNet-32.exe)!
 
